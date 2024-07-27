@@ -31,7 +31,7 @@ Before you begin, make sure you have the following:
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/yourusername/esp32-web-led-control.git
+   git clone https://github.com/MagicBulletPro/esp32-web-led-control.git
    cd esp32-web-led-control
 
 2. **Open the project with your preferred development environment:**
